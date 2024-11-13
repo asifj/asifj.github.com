@@ -1,9 +1,14 @@
 title: Asif Jamil
 logo: /assets/img/headshot_circle.png
-#description: text below image
+email: asif@asif.cc
 show_downloads: false
 #theme: jekyll-theme-minimal
-description: 
+description: Neuroscience, Device Neuromodulation, Neuroimaging, Machine Learning
+plugins:
+  - jekyll-seo-tag
+  - jemoji
+  - jekyll-remote-theme
+  - jekyll-sitemap
 google_analytics: UA-25650516-1
 remote_theme: vaibhavvikas/jekyll-theme-minimalistic
 platforms:
@@ -13,3 +18,4 @@ platforms:
   - name: LinkedIn
     icon: <i class="fa-brands fa-linkedin"></i>
     link: https://www.linkedin.com/in/asifjamil
+color-scheme: light
