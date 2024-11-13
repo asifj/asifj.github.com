@@ -17,6 +17,16 @@
 - Conducted data collection, processing, and analysis for novel human clinical trials evaluating the impact of device-based neuromodulation (electric and magnetic brain stimulation) on treatment of brain diseases (neurological and psychiatric disorders)
 - Applied supervised/unsupervised machine learning approaches to longitudinal electrophysiology data to discover novel treatment response biomarkers as well as neural "subtypes" to device-based neuromodulation
 
+**Postdoctoral Research Fellow @ Massachusetts General Hospital (Mass General Brigham) (_October 2020 - September 2021_)**
+
+**Postdoctoral Research Fellow @ Leibniz Research Centre for Working Environment and Human Factors (Dortmund, Germany) (_March 2017 - August 2020_)**
+
+**Doctoral Candidate @ University Medical Center Goettingen (Goettingen, Germany) (_March 2013 - February 2017_)**
+
+**Front-end Software Engineer @ GoSquared Analytics  (London, UK) (_October 2011 - December 2013_)**
+
+**Javascript Programmer I @ United States Geological Survey (USGS) (Beltsville, MD) (_October 2010 - May 2011_)**
+
 ## Projects
 
 ### Multi-modal combination and phase-synchronization of transcranial electric and magnetic stimulation
