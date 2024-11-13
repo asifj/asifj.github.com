@@ -22,4 +22,4 @@ platforms:
   - name: Twitter
     icon: <i class="fa-brands fa-twitter"></i>
     link: https://www.twitter.com/asifjamil
-color-scheme: dark
+color-scheme: light
