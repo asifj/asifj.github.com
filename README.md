@@ -2,11 +2,22 @@
 
 #### Technical Skills: Matlab, Python, R, AWS, COMSOL
 
+---
+
 ## Education
-- Ph.D., Neuroscience | University of Goettingen (_March 2017_)								       		
-- Ph.D., Rehabilitation Sciences | University of Hasselt (_Sept 2021_)								       		
-- M.S., Neuroimaging | Kings College London (_Dec 2012_)	 			        		
-- B.S., Biology | University of Maryland College Park (_May 2017_)
+
+<h3 style="margin-bottom:2px;">Ph.D., Neuroscience</h3>
+<h4 style="margin:0;">University of Goettingen (Germany)</h4>
+March 2013 - Feb 2017\
+_Summa Cum Laude_
+
+<h3 style="margin-bottom:2px;">M.S., Neuroimaging</h3>
+<h4 style="margin:0;">Kings College London (UK)</h4>
+Sept 2011 - Dec 2012
+
+<h3 style="margin-bottom:2px;">B.S., Biology</h3>
+<h4 style="margin:0;">University of Maryland, College Park (USA)</h4>
+Sept 2007 - May 2011
 
 ## Work Experience
 **Instructor (Dept of Psychiatry) @ Harvard Medical School (_September 2021 - Present_)**
