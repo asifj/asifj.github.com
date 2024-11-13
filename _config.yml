@@ -18,4 +18,7 @@ platforms:
   - name: LinkedIn
     icon: <i class="fa-brands fa-linkedin"></i>
     link: https://www.linkedin.com/in/asifjamil
+  - name: Twitter
+    icon: <i class="fa-brands fa-twitter"></i>
+    link: https://www.twitter.com/asifjamil
 color-scheme: light
