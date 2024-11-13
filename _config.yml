@@ -2,6 +2,14 @@ title: Asif Jamil
 logo: /assets/img/headshot_circle.png
 #description: text below image
 show_downloads: false
-theme: jekyll-theme-minimal
+#theme: jekyll-theme-minimal
 description: 
 google_analytics: UA-25650516-1
+remote_theme: vaibhavvikas/jekyll-theme-minimalistic
+platforms:
+  - name: GitHub
+    icon: <i class="fa-brands fa-github"></i>
+    link: https://github.com/asifj
+  - name: LinkedIn
+    icon: <i class="fa-brands fa-linkedin"></i>
+    link: https://www.linkedin.com/in/asifjamil
