@@ -1,8 +1,9 @@
-# Neuroscientist
-
-#### Technical Skills: Matlab, Python, R, AWS, COMSOL
-
 ---
+layout: default
+---
+## About Me:
+---
+I'm **Asif**, a neuroscientist from **Boston, USA**. 
 
 ## Education
 ---
@@ -42,7 +43,7 @@ Sept 2007 - May 2011
 ## Projects
 ---
 <div class="card">
-### Multi-modal combination and phase-synchronization of transcranial electric and magnetic stimulation
+<h3> Multi-modal combination and phase-synchronization of transcranial electric and magnetic stimulation</h3>
 - [Publication 1 - Alpha activity](https://www.brainstimjrnl.com/article/S1935-861X(21)00062-0/fulltext)
 - [Publication 2 - Theta activity](https://www.sciencedirect.com/science/article/pii/S1053811921010442?via%3Dihub)
 - [Publication 3 - Delta activity](https://www.brainstimjrnl.com/article/S1935-861X(24)00157-8/fulltext)
@@ -51,18 +52,19 @@ As a result of my interest in engineering and neuromodulation, I developed a nov
 </div>
 
 <div class="card">
-### Data-Driven EEG Biomarker Discovery using Machine Learning and EEG targeting using Neuromodulation
+<h3> Data-Driven EEG Biomarker Discovery using Machine Learning and EEG targeting using Neuromodulation</h3>
 
 My ongoing work involves building computational neuroimaging processing pipelines that process all of ongoing neuromodulation clinical trials, including those in major depression (MDD), ADHD, OCD, Alzheimer’s Disease, and substance-use disorders (SUDs). My recent research findings have identified EEG-based neurophysiological signatures underlying these diseases, which has led me to explore their potential use in therapeutic stimulation targeting. Consequently, I am interested in designing and optimizing neuromodulation protocols to effectively engage these respective circuits, using EEG to guide the temporal aspects of stimulation (e.g., timing, duration, frequency, etc.). The broader goal is to develop a “temporal precision” framework of neuromodulation development, whereby stimulation protocols can be tailored to target and modulate the temporal dynamics of brain activity in patients with neurological and psychiatric disorders. 
 </div>
 <div class="card">
-### Clinical and translational application of neuromodulation for neurological and psychiatric disorders
+<h3> Clinical and translational application of neuromodulation for neurological and psychiatric disorders</h3>
 - [Publication (Review on Clinical domain)](https://link.springer.com/chapter/10.1007/978-3-030-43356-7_5)
 - [Publication (Review on Functional domain)](https://www.sciencedirect.com/science/article/abs/pii/S0149763417300921?via%3Dihub)
 - [Publication (Review on Application to MDD)](https://journals.healio.com/doi/10.3928/00485713-20221025-01)
 
 Another aspect of my research has been focused on developing neuromodulation as a tool for functional rehabilitation, and thereby as an applied treatment for neurological and psychiatric disorders.
 </div>
+
 ## Recent Talks & Lectures
 ---
 - Invited talk: Multimodal synchronization of transcranial electric and magnetic stimulation for targeting neuro-oscillatory activity: challenges & opportunities for clinical interventions. NYC Neuromodulation Conference 2024-  New York City, NY - Summer 2024 
