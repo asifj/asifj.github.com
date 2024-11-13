@@ -72,3 +72,4 @@ Another aspect of my research has been focused on developing neuromodulation as 
 ---
 [Complete List on Pubmed](https://www.ncbi.nlm.nih.gov/myncbi/asif.jamil.1/bibliography/public/)
 
+[Complete List on Google Scholar](https://scholar.google.ca/citations?hl=en&user=kV-X8m4AAAAJ)
