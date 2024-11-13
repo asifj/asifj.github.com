@@ -57,15 +57,16 @@ My ongoing work involves building computational neuroimaging processing pipeline
 <h3> Clinical and translational application of neuromodulation for neurological and psychiatric disorders</h3>
 Another aspect of my research has been focused on developing neuromodulation as a tool for functional rehabilitation, and thereby as an applied treatment for neurological and psychiatric disorders.
 </div>
-- [Publication (Review on Clinical domain)](https://link.springer.com/chapter/10.1007/978-3-030-43356-7_5)
-- [Publication (Review on Functional domain)](https://www.sciencedirect.com/science/article/abs/pii/S0149763417300921?via%3Dihub)
-- [Publication (Review on Application to MDD)](https://journals.healio.com/doi/10.3928/00485713-20221025-01)
+- [Publication 1 (Review on Clinical domain)](https://link.springer.com/chapter/10.1007/978-3-030-43356-7_5)
+- [Publication 2 (Review on Functional domain)](https://www.sciencedirect.com/science/article/abs/pii/S0149763417300921?via%3Dihub)
+- [Publication 3 (Review on Application to MDD)](https://journals.healio.com/doi/10.3928/00485713-20221025-01)
 
 ## Recent Talks & Lectures
 ---
 - Invited talk: Multimodal synchronization of transcranial electric and magnetic stimulation for targeting neuro-oscillatory activity: challenges & opportunities for clinical interventions. NYC Neuromodulation Conference 2024-  New York City, NY - Summer 2024 
-- Guest Lecture: Non-invasive transcranial electric stimulation in humans: mechanisms and clinical applications. Spring 2024
+- Guest Lecture: Non-invasive transcranial electric stimulation in humans: mechanisms and clinical applications. JPK Stroke Center, Boston MA - Spring 2024
 - Invited talk: tDCS as a restitutive tool for motor learning in the aging population. Russian Rehabilitation Union, Moscow Russia - Summer 2021 
+- Invited talk: Phase-synchronized rTMS and tACS for modulating oscillatory brain activity. International Conference on Complex Medical Engineering (CME), Matsue, Japan - Fall 2018 
 
 ## Publications
 ---
