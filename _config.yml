@@ -2,6 +2,7 @@ title: Asif Jamil
 logo: /assets/img/headshot_circle.png
 email: asif@asif.cc
 show_downloads: false
+site.github.is_user_page: false
 #theme: jekyll-theme-minimal
 description: Neuroscience, Device Neuromodulation, Neuroimaging, Machine Learning
 plugins:
