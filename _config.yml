@@ -9,7 +9,7 @@ plugins:
   - jemoji
   - jekyll-remote-theme
   - jekyll-sitemap
-google_analytics: UA-25650516-1
+google_analytics: G-64NEPGY6ZP
 remote_theme: vaibhavvikas/jekyll-theme-minimalistic
 platforms:
   - name: GitHub
