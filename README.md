@@ -1,6 +1,4 @@
----
-layout: default
----
+
 ## About Me:
 ---
 I'm **Asif**, a neuroscientist from **Boston, USA**. 
