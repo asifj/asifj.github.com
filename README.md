@@ -6,12 +6,12 @@ I'm **Asif**, a neuroscientist from **Boston, USA**.
 ## Education
 ---
 <h3 style="margin-bottom:2px;">Ph.D., Neuroscience</h3>
-<h4 style="margin:0;">University of Goettingen (Germany)</h4>
+<h4 style="margin:0;">University of Göttingen (Germany)</h4>
 March 2013 - Feb 2017\
 _Summa Cum Laude_
 
 <h3 style="margin-bottom:2px;">M.S., Neuroimaging</h3>
-<h4 style="margin:0;">Kings College London (UK)</h4>
+<h4 style="margin:0;">King's College London (UK)</h4>
 Sept 2011 - Dec 2012
 
 <h3 style="margin-bottom:2px;">B.S., Biology</h3>
