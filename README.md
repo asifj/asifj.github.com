@@ -24,7 +24,7 @@ Sept 2007 - May 2011
 
 **Research Staff @ Massachusetts General Hospital (Mass General Brigham) (_October 2020 - Present_)**
 
-- Developed a novel, multi-modal device-based brain stimulation method that combines electric and magnetic fields in a phase-synchronized manner to target and engage electrophysiological brain oscillations in humans
+- Developed a novel, multi-modal device-based brain stimulation method that combines electric and magnetic fields in a phase-synchronized manner to target and engage rhythmic brain activity (neural oscillations) in humans
 - Conducted data collection, processing, and analysis for novel human clinical trials evaluating the impact of device-based neuromodulation (electric and magnetic brain stimulation) on treatment of brain diseases (neurological and psychiatric disorders)
 - Applied supervised/unsupervised machine learning approaches to longitudinal electrophysiology data to discover novel treatment response biomarkers as well as neural "subtypes" to device-based neuromodulation
 
